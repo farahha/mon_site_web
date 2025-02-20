@@ -1,3 +1,5 @@
 tmp/todo.txt
-clone_mon_site_web
 tmp/*
+*.txt
+clone_mon_site_web/
+.DS_Store
