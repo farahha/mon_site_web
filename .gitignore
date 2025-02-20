@@ -4,3 +4,4 @@ tmp/*
 clone_mon_site_web/
 .DS_Store
 *.xml
+*.kt
